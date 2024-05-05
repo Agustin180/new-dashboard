@@ -1,0 +1,30 @@
+:root {
+    /*          VARIABLES           */
+    --font-family-primary: sans-serif;
+
+    --font-size-primary: 18px;
+    --font-size-secondary: 15px;
+    --font-size-third: 22px;
+    --font-size-title: 30px;
+    --font-size-subtitle: 27px;
+    --font-size-tiny: 12px;
+
+    --font-color-primary: #030303;
+    --font-color-secondary: #ffffff;
+    --font-color-third: gray;
+
+    --background-color-primary: #ffffff;
+    --background-color-secondary: #030303;
+    --background-color-third: #c9c9c95c;
+    --background-color-third-light: #c9c9c9b5;
+    
+    --color-s1: #005C5C;
+
+    --border-radius-primary: 15px;
+    --border-radius-secondary: 10px;
+
+    --gap-spacing-primary: 15px;
+    --gap-spacing-secondary: 25px;
+
+    scroll-behavior: smooth;
+}
